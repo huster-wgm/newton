@@ -1,0 +1,42 @@
+[
+  {
+    "video": "before.mp4",
+    "source": "newton_original",
+    "trajectory_sha256": "3703697e7d3818e30af9c86a7598d90784a9c7e84da153cf94468f19eb6f478c",
+    "actual_base_m": 9.999999747378752e-05,
+    "max_horizontal_displacement_m": 0.8493692874908447,
+    "final_center_z_m": -1.7290488481521606,
+    "versions": {
+      "mujoco": "3.12.0",
+      "warp": "1.17.0",
+      "newton": "1.6.0"
+    },
+    "frames": 241,
+    "video_fps": 40,
+    "simulation_dt": 0.005,
+    "playback_speed": 0.2,
+    "world_shown": 0,
+    "simulated_worlds": 16,
+    "rendering_only": true
+  },
+  {
+    "video": "restored.mp4",
+    "source": "newton_restored",
+    "trajectory_sha256": "d09cce9549fbb2ebec4b38ea4f63906a7e20d0d73ba67ae2f916341a31c5d8f2",
+    "actual_base_m": 0.10000000149011612,
+    "max_horizontal_displacement_m": 0.00011156823893543333,
+    "final_center_z_m": 0.019982127472758293,
+    "versions": {
+      "mujoco": "3.12.0",
+      "warp": "1.17.0",
+      "newton": "1.6.0"
+    },
+    "frames": 241,
+    "video_fps": 40,
+    "simulation_dt": 0.005,
+    "playback_speed": 0.2,
+    "world_shown": 0,
+    "simulated_worlds": 16,
+    "rendering_only": true
+  }
+]
