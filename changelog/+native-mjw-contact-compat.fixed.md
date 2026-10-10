@@ -1,0 +1,1 @@
+Backport the contact adhesion argument from upstream #4392 for isolated Newton 1.6 validation with the native-determinism MuJoCo Warp integration. This compatibility branch requires the newer backend and does not change solver settings.
